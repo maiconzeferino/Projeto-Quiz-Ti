@@ -1,0 +1,30 @@
+{
+  "name": "projeto-quiz-uniasselvi",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@material-ui/core": "^4.12.3",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.1",
+    "axios": "^0.26.1",
+    "bootstrap": "^4.1.3",
+    "font-awesome": "4.7.0",
+    "immer": "^9.0.5",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.2.3",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0"
+  }
+}

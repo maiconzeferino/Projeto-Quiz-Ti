@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    border: 3px solid rgba(140, 141, 143, 0.788);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.container:hover {
+    background-color: lightgray;
+}
+
+.pergunta {
+    font-family: "segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.resp {
+    margin-top: 5px;
+    display: flex;
+    cursor: pointer;
+}
